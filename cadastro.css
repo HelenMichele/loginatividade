@@ -1,0 +1,273 @@
+.imagem{
+    position: absolute;
+   width: 219px;
+   height: 200px;
+   left: 611px;
+   top: 115px;
+       
+   }
+       
+   .nome{
+       
+    position: absolute;
+    width: 190px;
+   height: 26px;
+   left: 488px;
+   top: 354px;
+       
+       font-family: 'Inter';
+       
+       font-style: normal;
+       
+   font-weight: 400;
+       
+       font-size: 24px;
+       
+        line-height: 29px;
+       
+    color: #C51D6D;
+       
+       }
+       
+       
+       
+       
+       
+       .cxnome{
+       
+       position: absolute;
+       
+       
+       width: 466px;
+       
+       
+       height: 52px;
+       
+       
+       left: 487px;
+       
+       
+       top: 407px;
+       
+       
+       
+       
+       
+       background: #FEEFF6;
+       
+       }
+       
+       
+       
+       
+       
+       
+       .login{
+       
+      
+        position: absolute;
+       
+      
+        width: 117px;
+       
+     
+        height: 30px;
+       
+       
+        left: 490px;
+            top: 517px;
+       
+   font-family: 'Inter';
+       
+   
+       font-style: normal;
+       
+   
+        font-weight: 400;
+       
+   
+        font-size: 24px;
+       
+   
+        line-height: 29px;
+       
+      
+        display: flex;
+       
+       
+       align-items: center;
+       
+       
+   
+       
+       color: #C51D6D;
+       
+       
+       }
+       
+       
+       
+       
+       
+       .cxlogin{
+       
+       position: absolute;
+       
+       width: 465px;
+       
+   
+        height: 52px;
+       
+      
+        left: 488px;
+       
+     
+      top: 573px;
+       
+    
+       
+    
+    background:#FEEFF6;
+       
+       
+       
+       
+       
+       }
+   
+       .email{
+       
+           position: absolute;
+           width: 190px;
+          height: 26px;
+          left: 488px;
+          top: 650px;
+              
+              font-family: 'Inter';
+              
+              font-style: normal;
+              
+          font-weight: 400;
+              
+              font-size: 24px;
+              
+               line-height: 29px;
+              
+           color: #C51D6D;
+              
+              }
+   
+              .cxemail{
+       
+               position: absolute;
+               
+               width: 465px;
+               
+           
+                height: 52px;
+               
+              
+                left: 488px;
+               
+             
+              top: 700px;
+               
+            
+               
+            
+            background:#FEEFF6;
+   
+            }
+   
+   
+            .senha{
+       
+               position: absolute;
+               width: 190px;
+              height: 26px;
+              left: 488px;
+              top: 780px;
+                  
+                  font-family: 'Inter';
+                  
+                  font-style: normal;
+                  
+              font-weight: 400;
+                  
+                  font-size: 24px;
+                  
+                   line-height: 29px;
+                  
+               color: #C51D6D;
+                  
+                  }
+       
+                  .cxsenha{
+           
+                   position: absolute;
+                   
+                   width: 465px;
+                   
+               
+                    height: 52px;
+                   
+                  
+                    left: 488px;
+                   
+                 
+                  top: 820px;
+                   
+                
+                   
+                
+                background:#FEEFF6;
+       
+                }
+   
+   
+   
+       
+       
+       .acessar{
+       
+     
+        position: absolute;
+       
+       
+       width: 114.64px;
+       
+       
+        height: 34.13px;
+       
+    
+       left: 556.34px;
+       
+   
+        top: 950px;
+       
+   
+       
+       font-family: 'Inter';
+       
+       font-style: normal;
+   
+       font-weight: 400;
+       
+       font-size: 24px;
+       
+   
+       line-height: 29px;
+       
+       
+       display: flex;
+       
+       
+       align-items: center; 
+       
+       
+       color: #C51D6D;
+       
+       }
+   
+       
+       
